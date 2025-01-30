@@ -1,0 +1,18 @@
+{
+  "name": "webpage---nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sendinblue/client": "^3.3.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mailgun-js": "^0.22.0"
+  }
+}
